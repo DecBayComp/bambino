@@ -57,3 +57,11 @@ Send the following files to Dylan and Tihana:
 ## Threshold file
 
 https://docs.google.com/spreadsheets/d/1Ardk-SyFludRvWOo5o3a3uVy0OMOKE11d2ta-h_Gkp0/edit?usp=sharing
+
+## Installation
+
+On Maestro:
+```
+module load Python/3.10.7
+python3 -m pip install numpy pandas h5py "scikit-learn==1.1.2" matplotlib seaborn
+```
